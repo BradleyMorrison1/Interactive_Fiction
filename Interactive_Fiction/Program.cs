@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Reflection;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,6 +16,7 @@ namespace Interactive_Fiction
 
         static string[] splitPage = currentPage.Split(';');
 
+        static TextWriter textWriter = StreamWriter("SaveFile1");
 
         static void Main(string[] args)
         {
@@ -24,7 +26,10 @@ namespace Interactive_Fiction
             Console.WriteLine("|Time Traveling Interactive Fiction - Bradley Morrison|\n"); // Title
             do // Loop for the entire game
             {
-                
+                string savedPage;
+
+                savedPage)
+
                 ChoiceLoop();
                 Console.WriteLine("\nThe End");
                 Console.WriteLine("\nWould you like to restart? (Y)es or (N)o");
