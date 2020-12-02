@@ -1,0 +1,10 @@
+﻿You have just finished construction on your very own time machine.\nDo you you want to go..;1: Back in time;2: Forward in time;2;3
+You decide to travel back in time\nWhat year do you travel back to?;1: 1984;2: 1880;4;5
+You decide to travel forward in time.\nWhat year do you travel back to?;1: 3000;2: 2050;6;7
+You are in the year 1984. Neon clothing,ripped jeans, and mullets\nare all around you.\nDo you;1: Stick around for a while and enjoy yourself;2: Travel back to 1880;8;5
+You are in the year 1880 fashion, buildings, and culture are all very\nforeign to you. Do you;1: Travel to 1984;2: Stay in 1880 for a while;4;9
+You Travel to the year 3000. The changes are jarring. Technology is\nadvanced further than you thought possible, the current fashion\ntrends are hard to comprehend.The people and media are all very \ndifferent than what you remember.You constantly get weird looks for \nyour accent and clothes. Do you;1: Stay in the future;2: Travel back to 2050;9;7
+You are in the year 2050 Technology has advanced but not\nso much that it is hard to comprehend. You spot odd\nfashion trends,see posters of movie franchises you've never\nheard of, and hear music that sounds bizarre. Do you;1: Travel to the year 3000;2: Stick around in 2050;6;10
+You Stay in the 80's for a while enjoying the sights and culture of\na different time.;
+While you want to stay, the culture and people are just too different\nfrom what you are used to. Seeing the futility in staying where you\ndon't belong, you return to the present.;
+You Stay in 2050 for a while enjoying the benefits of faster\ntechnology and easier living.;
